@@ -1,2 +1,2 @@
-# A-transfer-learning-approach-for-staging-diagnosis-of-ACL-injury-on-a-new-MR-sequence
-A transfer learning approach for staging diagnosis of ACL injury on a new MR sequence
+# A-transfer-learning-approach-for-grading-diagnosis-of-ACL-injury-on-a-new-MR-sequence
+A retrospective study of knee MRI scans performed on a 1.5 Tesla scanner using DPP-TSO-Sag-FS-PDWI. A comparison of the prediction performances of whole image, ROI and single radiologist in grading ACL injuries was examined using arthroscopy as a gold standard.Transfer learning was performed using pre trained EfficientNet-B0 model
